@@ -1,0 +1,14 @@
+/Users/gg/ucheba/object-oriented programming/lab1/VendingMachineApp/bin/Debug/net8.0/VendingMachineApp
+/Users/gg/ucheba/object-oriented programming/lab1/VendingMachineApp/bin/Debug/net8.0/VendingMachineApp.deps.json
+/Users/gg/ucheba/object-oriented programming/lab1/VendingMachineApp/bin/Debug/net8.0/VendingMachineApp.runtimeconfig.json
+/Users/gg/ucheba/object-oriented programming/lab1/VendingMachineApp/bin/Debug/net8.0/VendingMachineApp.dll
+/Users/gg/ucheba/object-oriented programming/lab1/VendingMachineApp/bin/Debug/net8.0/VendingMachineApp.pdb
+/Users/gg/ucheba/object-oriented programming/lab1/VendingMachineApp/obj/Debug/net8.0/VendingMachineApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gg/ucheba/object-oriented programming/lab1/VendingMachineApp/obj/Debug/net8.0/VendingMachineApp.AssemblyInfoInputs.cache
+/Users/gg/ucheba/object-oriented programming/lab1/VendingMachineApp/obj/Debug/net8.0/VendingMachineApp.AssemblyInfo.cs
+/Users/gg/ucheba/object-oriented programming/lab1/VendingMachineApp/obj/Debug/net8.0/VendingMachineApp.csproj.CoreCompileInputs.cache
+/Users/gg/ucheba/object-oriented programming/lab1/VendingMachineApp/obj/Debug/net8.0/VendingMachineApp.dll
+/Users/gg/ucheba/object-oriented programming/lab1/VendingMachineApp/obj/Debug/net8.0/refint/VendingMachineApp.dll
+/Users/gg/ucheba/object-oriented programming/lab1/VendingMachineApp/obj/Debug/net8.0/VendingMachineApp.pdb
+/Users/gg/ucheba/object-oriented programming/lab1/VendingMachineApp/obj/Debug/net8.0/VendingMachineApp.genruntimeconfig.cache
+/Users/gg/ucheba/object-oriented programming/lab1/VendingMachineApp/obj/Debug/net8.0/ref/VendingMachineApp.dll
