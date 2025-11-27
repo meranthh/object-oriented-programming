@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/gg/RiderProjects/object-oriented-programming/lab1/VendingMachineApp/VendingMachineApp.csproj",
-      "projectName": "VendingMachineApp",
-      "projectPath": "/Users/gg/RiderProjects/object-oriented-programming/lab1/VendingMachineApp/VendingMachineApp.csproj",
+      "projectUniqueName": "/Users/gg/RiderProjects/object-oriented-programming/Lab2/Lab2.csproj",
+      "projectName": "Lab2",
+      "projectPath": "/Users/gg/RiderProjects/object-oriented-programming/Lab2/Lab2.csproj",
       "packagesPath": "/Users/gg/.nuget/packages/",
-      "outputPath": "/Users/gg/RiderProjects/object-oriented-programming/lab1/VendingMachineApp/obj/",
+      "outputPath": "/Users/gg/RiderProjects/object-oriented-programming/Lab2/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/gg/.nuget/NuGet/NuGet.Config"

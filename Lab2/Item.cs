@@ -1,0 +1,10 @@
+namespace Lab2;
+
+public abstract class Item
+{
+    public required string Name { get; set; }
+
+    public required string Overview { get; set; }
+
+    public abstract void Use();
+}

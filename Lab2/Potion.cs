@@ -1,0 +1,16 @@
+namespace Lab2;
+
+public class Potion : Item, IUse
+{
+    public string? Effect { get; set; }
+
+    public void DisplayInfo()
+    {
+        Console.WriteLine($"{Name}: {Overview}. Эффект: {Effect}");
+    }
+
+    public override void Use()
+    {
+        Console.WriteLine($"Вы использовали {Name}. {Effect}");
+    }
+}
