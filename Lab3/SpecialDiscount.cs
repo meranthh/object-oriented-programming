@@ -1,0 +1,15 @@
+namespace Lab3;
+public class SpecialDiscount : IDiscountStrategy
+{
+    private readonly decimal _fixedAmount;
+
+    public SpecialDiscount(decimal fixedAmount)
+    {
+        _fixedAmount = fixedAmount;
+    }
+
+    public decimal ApplyDiscount(decimal totalPrice)
+    {
+        return totalPrice - _fixedAmount;
+    }
+}

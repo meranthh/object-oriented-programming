@@ -1,0 +1,9 @@
+namespace Lab3;
+public class PriceCalculator
+{
+    public decimal CalculateTotalPrice(Order order, IDiscountStrategy discountStrategy)
+    {
+        decimal totalPrice = order.TotalPrice;
+        return discountStrategy.ApplyDiscount(totalPrice);
+    }
+}

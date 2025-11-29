@@ -1,0 +1,13 @@
+namespace Lab3;
+public class PreparingState : IOrderState
+{
+    public void Advance(Order order)
+    {
+        order.CurrentState = new OutForDeliveryState();
+    }
+
+    public string Status()
+    {
+        return "Готовится";
+    }
+}

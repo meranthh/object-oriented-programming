@@ -1,0 +1,21 @@
+namespace Lab3;
+public class OrderBuilder
+{
+    public Order Order { get; }
+
+    public OrderBuilder()
+    {
+        Order = new Order();
+    }
+
+    public OrderBuilder AddItem(MenuItem item)
+    {
+        Order.AddItem(item);
+        return this;
+    }
+
+    public Order Build()
+    {
+        return Order;
+    }
+}

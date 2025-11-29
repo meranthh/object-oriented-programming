@@ -1,0 +1,10 @@
+namespace Lab3;
+public partial class DeliveredState : IOrderState
+{
+    public void Advance(Order order) { }
+
+    public string Status()
+    {
+        return "Доставлено";
+    }
+}

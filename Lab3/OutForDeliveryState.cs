@@ -1,0 +1,13 @@
+namespace Lab3;
+public class OutForDeliveryState : IOrderState
+{
+    public void Advance(Order order)
+    {
+        order.CurrentState = new DeliveredState();
+    }
+
+    public string Status()
+    {
+        return "Отправлено в доставку";
+    }
+}

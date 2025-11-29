@@ -1,0 +1,15 @@
+namespace Lab3;
+public class StandardDiscount : IDiscountStrategy
+{
+    private readonly decimal _discountPercentage;
+
+    public StandardDiscount(decimal discountPercentage)
+    {
+        _discountPercentage = discountPercentage;
+    }
+
+    public decimal ApplyDiscount(decimal totalPrice)
+    {
+        return totalPrice - (totalPrice * _discountPercentage / 100);
+    }
+}
